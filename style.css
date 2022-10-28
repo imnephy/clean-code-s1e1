@@ -1,8 +1,10 @@
 /*----------reset styles---------*/
+
 input,
 button {
   outline: none;
 }
+
 /*----------reset styles---------*/
 
 /* Basic Style */
@@ -73,7 +75,7 @@ button {
 }
 
 /* Heading */
-.main__subtitle{
+.main__subtitle {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -143,7 +145,7 @@ button {
 
 /* Completed */
 .completed-list .item__text {
-  text-decoration: line-through; 
+  text-decoration: line-through;
   color: #888;
 }
 
